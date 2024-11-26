@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\vs\\beru\\beru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\eki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:eki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\eki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:eki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\beru.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:beru.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|D:\\project\\vs\\beru\\beru\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F63FB3D-4E48-492A-A222-C2D36BE52EA4}|beru.vcxproj|solutionrelative:Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eki.cpp",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\eki.cpp",
+              "RelativeDocumentMoniker": "eki.cpp",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\eki.cpp",
+              "RelativeToolTip": "eki.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T16:19:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eki.h",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\eki.h",
+              "RelativeDocumentMoniker": "eki.h",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\eki.h",
+              "RelativeToolTip": "eki.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T15:37:55.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T15:30:23.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.h",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T15:30:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T15:30:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "utils.cpp",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\utils.cpp",
+              "RelativeDocumentMoniker": "utils.cpp",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\utils.cpp",
+              "RelativeToolTip": "utils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T15:30:13.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "beru.cpp",
+              "DocumentMoniker": "D:\\project\\vs\\beru\\beru\\beru.cpp",
+              "RelativeDocumentMoniker": "beru.cpp",
+              "ToolTip": "D:\\project\\vs\\beru\\beru\\beru.cpp",
+              "RelativeToolTip": "beru.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T15:27:36.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
